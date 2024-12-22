@@ -1,3 +1,5 @@
+DEMO: https://rechart-dashboard.vercel.app
+
 Recharts Dashboard
 This project is a React-based dashboard showcasing various chart types using the Recharts library. It also utilizes React-Bootstrap for layout and styling. The application demonstrates different chart types such as Line, Bar, Pie, Area, Composed, Scatter, Radar, and Radial Bar Charts.
 
